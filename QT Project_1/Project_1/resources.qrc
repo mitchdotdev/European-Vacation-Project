@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../Europe.jpg</file>
+        <file>../home.png</file>
+    </qresource>
+</RCC>
